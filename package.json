@@ -1,0 +1,22 @@
+{
+  "name": "mean-angular2",
+  "version": "1.0.0",
+  "description": "Mean Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnuvardhan87/mean-stack.git"
+  },
+  "author": "vishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnuvardhan87/mean-stack/issues"
+  },
+  "homepage": "https://github.com/vishnuvardhan87/mean-stack#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
